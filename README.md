@@ -17,7 +17,7 @@ It has a single end point called `predict` which takes input file and returns a 
    1. Rear Normal
    1. Rear Crushed
    1. Rear Breakage
-9. The accuracy on the validation set was around 80%
+9. The accuracy on the validation set was around 92%
 
 ### Set Up
 
@@ -29,3 +29,4 @@ It has a single end point called `predict` which takes input file and returns a 
 2. Run the fast api server:
    ```commandline
    fastapi dev server.py
+
